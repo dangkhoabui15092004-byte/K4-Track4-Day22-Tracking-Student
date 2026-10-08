@@ -1,7 +1,14 @@
 lab_data/
-runs/
+data_lab21/
+__MACOSX/
+runs/*
+!runs/nop_bai/
+!runs/nop_bai/*.txt
 TrackEval/
 *.pt
+*.mp4
 __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
+
+
